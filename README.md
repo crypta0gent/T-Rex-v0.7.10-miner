@@ -1,7 +1,7 @@
 
 Cryptocurrency Software
 Miner
-T-Rex v0.6.10 miner for NVIDIA ( Linux / Windows )
+T-Rex v0.7.10 miner for NVIDIA ( Linux / Windows )
 
 T-Rex is a miner designed for modern NVIDIA GPUs with Compute Capability 5.0 or greater (Maxwell and Pascal generations).
 
@@ -49,7 +49,7 @@ The miner contains 1% devfee providing the console output when miner starts and 
 
  
 
-The latest version is T-Rex v0.6.10 and it contains the following bug fixes, features and improvements:
+The latest version is T-Rex v0.7.10 and it contains the following bug fixes, features and improvements:
 
 ✔︎ Speed improvements: x16r/s, x17, c11, bitcore, bcd, sonoa - 1-2%
 
